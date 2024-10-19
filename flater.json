@@ -1,0 +1,53 @@
+{
+
+
+
+  "webViewGame": "aHR0cHM6Ly9odG1sNS5nYW1lbW9uZXRpemUuY28vbGVjYWF3aGUzMXI1Z2xpZGNnOXQ2YXljdTJuZXV2Ynkv",
+
+  "adsPerClick": 3,
+
+  "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInit": "ca-app-pub-3940256099942544/1033173712",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110",
+
+    "fbBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbInit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "adsType": "admob",
+  "applovinBanner": "44f88e6d31b9bf6a",
+  "applovinNative": "748cb44ac1ce28af",
+  "applovinInit": "7708a40b60712e04",
+
+
+  "buttonText": "Our WEBSITE",
+  "buttonVisible" : true,
+  "dynamicUrl" : "https://www.google.co.in/",
+  "dynamicText" : "Welcome to SKIBIDI ! Let the fun begin!",
+  
+  
+  "isMoreAppShow": true,
+  "moreApps": [
+    {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+      "name": "Twisted Tangle"
+      
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+        "name": "Twisted Tangle"
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+        "name": "Twisted Tangle"
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+        "name": "Twisted Tangle"
+    }
+    
+  ]
+}
