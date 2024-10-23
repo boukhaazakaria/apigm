@@ -20,10 +20,7 @@
   "applovinInit": "",
 
   
-  "buttonText": "Our WEBSITE",
-  "buttonVisible" : true,
-  "dynamicUrl" : "https://www.google.co.in/",
-  "dynamicText" : "Welcome to SKIBIDI ! Let the fun begin!",
+
   
   
   "isMoreAppShow": true,
