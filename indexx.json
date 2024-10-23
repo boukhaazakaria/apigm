@@ -18,7 +18,11 @@
   "applovinBanner": "",
   "applovinNative": "",
   "applovinInit": "",
-
+  
+  "buttonText": "Our WEBSITE",
+  "buttonVisible" : false,
+  "dynamicUrl" : "https://www.google.co.in/",
+  "dynamicText" : "Welcome to SKIBIDI ! Let the fun begin!",
   
 
   
