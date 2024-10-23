@@ -6,6 +6,20 @@
 
   "adsPerClick": 3,
 
+
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInit": "ca-app-pub-3940256099942544/1033173712",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110",
+
+    "fbBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbInit": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "adsType": "admob",
+  "applovinBanner": "44f88e6d31b9bf6a",
+  "applovinNative": "748cb44ac1ce28af",
+  "applovinInit": "7708a40b60712e04",
+
+  
   "buttonText": "Our WEBSITE",
   "buttonVisible" : true,
   "dynamicUrl" : "https://www.google.co.in/",
